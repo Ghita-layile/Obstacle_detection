@@ -1,7 +1,5 @@
 # Obstacle_detection
-Evaluation for 2D lidar
-Exploratory Data Aanalysis in Python
-This project evaluates the performance of 2D solide state lidar to help drivers avoid collisions with vulnerable users and other obstacles.
+This project evaluates the performance of a 2D solide state lidar to help drivers avoid collisions with vulnerable users and other obstacles.
 
 ## Static scenarios
 The static scenarios studied aim to examine the effectiveness of lidar in detecting a pedestrian and a traffic cone statically. This experiment was carried out in the indoor parking lot for 25 minutes
